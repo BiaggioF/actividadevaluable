@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+padding: 0;
+background-image: url(/img/nyan.jpg); 
+background-repeat:no-repeat;
+background-size: cover;
+font-family: sans-serif;
+} 
+img{
+    width: 200px;
+    height: 200px ;
+    border-radius: 50%;
+    object-fit: cover;
+}
+h1{
+    text-align: center;
+    background-color: rgb(226, 90, 0);
+    color: white;
+    padding: 20px;
+    display: inline-block
+}
+p{
+    color:white
+}
+h2{
+    text-align: center;
+    background-color: rgb(226, 90, 0);
+    color: white;
+    padding: 20px;
+    display: inline-block
+}
+h3{
+    text-align: center;
+    background-color: rgb(226, 90, 0);
+    color: white;
+    padding: 20px;
+    display: inline-block
+}
